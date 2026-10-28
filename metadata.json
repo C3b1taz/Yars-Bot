@@ -1,0 +1,6 @@
+{
+  "name": "YAR'S - Marisquería & Cevichería",
+  "description": "Página web oficial de YAR'S Marisquería & Cevichería con asistente virtual de IA integrado (Gemini) para cartas, pedidos y atención al cliente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
